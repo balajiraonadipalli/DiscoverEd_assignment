@@ -2,7 +2,7 @@ import axios from 'axios';
 import qs from 'qs';
 
 const api = axios.create({
-    baseURL: 'http://localhost:5000/api',
+    baseURL: 'https://discover-ed-assignment-git-main-balajis-projects-e2d99a77.vercel.app/api',
 });
 
 // College APIs
